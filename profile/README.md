@@ -1,13 +1,11 @@
-# [Ripnetwork](https://ripnet.cc), the Organization.
+# [ripnetwork](https://ripnet.cc), the Organization.
 [Click here for ripnet, it is not in the organization.](https://github.com/playfairs/ripnet)
 ---
 This organization is where Ripnetwork puts other projects or dependencies that **ripnet** relies on.
 
 ---
 
-Ripnetwork is an independent software organization focused on developing networking tools, infrastructure, and utilities designed for performance, reliability, and control.
-
-Our projects aim to make network infrastructure more accessible, extensible, and easier to understand, from low-level networking utilities to tools for testing and strengthening systems.
+**ripnetwork** is an independent software organization focused on developing networking tools, infrastructure, and utilities designed for performance, reliability, and control.
 
 ## Projects
 
