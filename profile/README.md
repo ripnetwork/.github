@@ -28,6 +28,4 @@ Explore our repositories to discover current projects, experiments, and tools.
 - [RipSSH](https://github.com/playfairs/ripssh)
 - [Website](https://ripnet.cc)
 
----
-
 <sub>Copyright © 2026 Ripnetwork. Founded by playfairs.</sub>
